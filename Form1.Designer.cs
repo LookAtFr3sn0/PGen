@@ -151,9 +151,9 @@ namespace PGen
             this.checkBox7.ForeColor = System.Drawing.Color.White;
             this.checkBox7.Location = new System.Drawing.Point(120, 100);
             this.checkBox7.Name = "checkBox7";
-            this.checkBox7.Size = new System.Drawing.Size(65, 17);
+            this.checkBox7.Size = new System.Drawing.Size(106, 17);
             this.checkBox7.TabIndex = 9;
-            this.checkBox7.Text = "Symbols";
+            this.checkBox7.Text = "Unicode symbols";
             this.checkBox7.UseVisualStyleBackColor = true;
             this.checkBox7.CheckedChanged += new System.EventHandler(this.checkBox7_CheckedChanged);
             // 
