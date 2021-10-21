@@ -8,3 +8,5 @@ Form1.resx
 PGen.csproj
 PGen.csproj.user
 release/
+pgen.pfx
+Icon.ico
